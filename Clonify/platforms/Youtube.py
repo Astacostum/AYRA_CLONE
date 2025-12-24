@@ -20,7 +20,7 @@ from pyrogram.enums import MessageEntityType
 
 from pyrogram.types import Message
 
-from youtubesearchpython.__future__ import VideosSearch
+from py_yt import VideosSearch, Playlist
 
 from Clonify.utils.database import is_on_off
 
@@ -2233,3 +2233,4 @@ async def test_optimized_search(query: str):
 async def test_improved_search(query: str):
 
     return await test_optimized_search(query)
+
