@@ -61,7 +61,7 @@ API_KEY = getenv("API_KEY", 'NxGBNexGenBotsa02f5a') # youtube song api key
 SOURCE = getenv("SOURCE", "https://t.me/ixasta1")
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/ITzastamusic/VARSHA_CLONE",
+    "https://github.com/Astacostum/AYRA_CLONE",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
@@ -76,9 +76,9 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ixasta1")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/odsnetwork")
-CHAT = getenv("CHAT", "https://t.me/odsnetwork")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ioxupdate")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+IJpCOH0mt4BhZDhl")
+CHAT = getenv("CHAT", "https://t.me/+IJpCOH0mt4BhZDhl")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
